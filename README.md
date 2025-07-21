@@ -7,4 +7,5 @@
   <a href="https://www.buymeacoffee.com/minias">
     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="42" width="150" alt="minias" />
   </a>
+  <iframe src="https://github.com/sponsors/minias/button" title="Sponsor minias" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
 </p>
