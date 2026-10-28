@@ -10,7 +10,7 @@ I'm currently exploring **Vibe Coding, AI-native development workflows, and prac
 
 I'm open to discussing interesting technical opportunities and collaborations while continuing my current work.
 
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/minias)
 
 <p align="center">
   <img src ="https://github-readme-streak-stats.herokuapp.com/?user=minias&theme=merko&hide_border=true&background=FFFFFF00"/>
